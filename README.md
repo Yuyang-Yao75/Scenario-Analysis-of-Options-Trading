@@ -14,7 +14,7 @@
 - Python 3.8+
 - 主要依赖：`pandas`、`numpy`、`scipy`、`matplotlib`、`xlsxwriter`、`iFinDPy`
 - 需拥有有效的 iFinD 账号与权限
- 
+
 ## 安装
 ```bash
 pip install pandas numpy scipy matplotlib xlsxwriter iFinDPy
