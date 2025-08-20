@@ -29,7 +29,7 @@ def validate_session(session: str) -> None:
 
 # 定义登陆函数
 def ths_login():
-    ret = THS_iFinDLogin('ghyjsxs207', '505933')
+    ret = THS_iFinDLogin('aaaaa', 'aaaaa')
     print(ret)
     if ret != 0:
         raise  RuntimeError("登陆失败")
