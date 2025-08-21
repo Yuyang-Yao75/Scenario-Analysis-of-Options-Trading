@@ -1,5 +1,8 @@
 # 情景分析：期权持仓风险评估
 
+[![EN](https://img.shields.io/badge/lang-English-blue.svg)](./README.en.md)  
+[![CN](https://img.shields.io/badge/lang-中文-red.svg)](./README.md)
+
 该项目用于对期权组合进行情景分析，评估在标的价格和波动率变化下的盈亏、保证金以及希腊值暴露情况。工具基于 **iFinD** 数据接口，结合 `pandas`、`numpy`、`scipy` 与 `xlsxwriter` 等库，实现自动化的风险测算与报表生成。
 本项目采用MIT License进行许可-请参阅[License](./LICENSE)文件获取详细信息。
 
