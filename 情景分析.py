@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Yuyang Yao
+# SPDX-License-Identifier: MIT
+
 import matplotlib
 from iFinDPy import *
 import pandas as pd
