@@ -8,6 +8,13 @@ It is built on **iFinD** data interfaces, leveraging libraries such as `pandas`,
 
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
 
+> **License**  
+> This repository is released under the **PolyForm Noncommercial License 1.0.0**.  
+> Noncommercial use only (learning, research, evaluation).  
+> **Any commercial use requires a separate license.** For commercial licensing, contact: yyyao75@163.com.  
+> See [LICENSE](./LICENSE) and [COMMERCIAL.md](./COMMERCIAL.md) for details.
+
+
 ---
 
 ## Features

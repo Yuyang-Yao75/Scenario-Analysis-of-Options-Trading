@@ -1,5 +1,5 @@
 # Copyright (c) 2025 Yuyang Yao
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 
 import matplotlib
 from iFinDPy import *

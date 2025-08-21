@@ -4,7 +4,11 @@
 [![CN](https://img.shields.io/badge/lang-中文-red.svg)](./README.md)
 
 该项目用于对期权组合进行情景分析，评估在标的价格和波动率变化下的盈亏、保证金以及希腊值暴露情况。工具基于 **iFinD** 数据接口，结合 `pandas`、`numpy`、`scipy` 与 `xlsxwriter` 等库，实现自动化的风险测算与报表生成。
-本项目采用MIT License进行许可-请参阅[License](./LICENSE)文件获取详细信息。
+
+> **许可（License）**  
+> 本仓库代码以 **PolyForm Noncommercial License 1.0.0** 发布，仅允许非商业用途（学习、研究、评估）。  
+> **任何商业使用均需取得单独授权**。商业授权请联系：yyyao75@163.com  
+> 详见 [LICENSE](./LICENSE) 与 [COMMERCIAL.md](./COMMERCIAL.md) 文件。
 
 
 ## 功能特点

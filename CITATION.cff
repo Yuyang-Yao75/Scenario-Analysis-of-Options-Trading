@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Scenario Analysis: Option Portfolio Risk Assessment"
+abstract: "A toolkit for option-portfolio scenario analysis with P&L, margin and Greeks under S×IV shocks."
+authors:
+  - family-names: Yao
+    given-names: Yuyang
+    email: yyyao75@163.com
+    orcid: ""
+repository-code: "https://github.com/Yuyang-Yao75/Scenario-Analysis-of-Options-Trading"
+license: "PolyForm-Noncommercial-1.0.0"
+version: "0.1.0"
+date-released: "2025-08-21"
