@@ -148,3 +148,4 @@ README.md               # Project documentation
 * For pre/intra-market analysis, ensure data sources are ready.
 * Contains sensitive information (positions & Greeks); handle with confidentiality.
 
+>Note: This project is currently in a stage of partial completion, and there will be no updates in the short term. Honestly, I am well aware that the code still has many shortcomings in terms of structure, efficiency, and complexity. If you notice any issues while reading or using it, I sincerely welcome your feedback and criticism. I firmly believe that open exchange and genuine sharing are the foundation of mutual growth, and that is the true value of this work.
